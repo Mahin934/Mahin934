@@ -83,10 +83,10 @@
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/mahin" target="_blank">
+  <a href="[https://linkedin.com/in/mahin](https://www.linkedin.com/in/mahin-mahin-94392a344/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://fb.com/mahin emran" target="_blank">
+  <a href="[https://fb.com/mahin emran](https://www.facebook.com/share/1Beg7KE6fy/)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="mailto:mahinmia934@gmail.com">
