@@ -3,6 +3,7 @@
 </div>
 
 <div align="center">
+
   <h1 align="center">🚀 Hi There! I'm Mahin Mia</h1>
   <h3 align="center">🔥 Passionate Junior Web Developer | 🎯 React Enthusiast | 🇧🇩 From Bangladesh</h3>
 </div>
@@ -35,11 +36,19 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
-### 🔹 Backend
+### 🔹 Backend & Database
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### 🔹 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 ### 🔹 Tools & DevOps
@@ -62,6 +71,12 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahin934&layout=compact&theme=vision-friendly-dark)
 
 </div>
+
+---
+
+## 🌍 Portfolio
+
+🔗 **Check out my portfolio:** [mahin-portfolio.surge.sh](https://mahin-portfolio.surge.sh/)
 
 ---
 
