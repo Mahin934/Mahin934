@@ -22,7 +22,7 @@
 ## 📌 Current Activities
 
 - 📚 Learning **Next.js** & **TypeScript**.
-- 🌍 Working on a **tourism website** project.
+- 🌍 Working on a **Metromony website** project.
 - 🤝 Collaborating with other developers in the open-source community.
 
 ---
