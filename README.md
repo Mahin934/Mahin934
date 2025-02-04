@@ -1,41 +1,57 @@
 <div align="center">
-  <pre>
-  ███╗   ███╗ █████╗ ██╗  ██╗██╗███╗   ██╗    ███╗   ███╗██╗ █████╗
-  ████╗ ████║██╔══██╗██║  ██║██║████╗  ██║    ████╗ ████║██║██╔══██╗
-  ██╔████╔██║███████║███████║██║██╔██╗ ██║    ██╔████╔██║██║███████║
-  ██║╚██╔╝██║██╔══██║██╔══██║██║██║╚██╗██║    ██║╚██╔╝██║██║██╔══██║
-  ██║ ╚═╝ ██║██║  ██║██║  ██║██║██║ ╚████║    ██║ ╚═╝ ██║██║██║  ██║
-  ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝╚═╝  ╚═╝
-  </pre>
+  <img src="https://i.ibb.co.com/5hmhDC9h/github-header-image-1.png" alt="GitHub Banner" />
+</div>
+
+<div align="center">
   <h1 align="center">🚀 Hi There! I'm Mahin Mia</h1>
   <h3 align="center">🔥 Passionate Junior Web Developer | 🎯 React Enthusiast | 🇧🇩 From Bangladesh</h3>
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 👨‍💻 About Me
 
-<p align="center">
+- 🚀 Passionate about building modern web applications.
+- 🎯 Currently mastering **React & Advanced JavaScript**.
+- 💡 Always learning and exploring new technologies.
+- 🔍 Looking for opportunities to collaborate on open-source projects.
+
+---
+
+## 📌 Current Activities
+
+- 📚 Learning **Next.js** & **TypeScript**.
+- 🌍 Working on a **tourism website** project.
+- 🤝 Collaborating with other developers in the open-source community.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🔹 Frontend
+<p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### 🔹 Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+### 🔹 Tools & DevOps
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
 
-### 📌 Quick Facts
-
-- 🌱 Currently mastering **React & Advanced JavaScript**
-- 🚀 Portfolio: [mahin-portfolio.surge.sh](https://mahin-portfolio.surge.sh/)
-- 📧 Reach me: **mahinmia934@gmail.com**
-- 💡 Fun fact: I can solve a Rubik's cube in under 2 minutes!
-
----
-
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   
@@ -49,7 +65,7 @@
 
 ---
 
-### 🤝 Let's Connect!
+## 🤝 Let's Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/mahin" target="_blank">
@@ -65,7 +81,7 @@
 
 ---
 
-### 👀 Visitor Counter
+## 👀 Visitor Counter
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mahin934&color=blueviolet&style=flat-square)
 
